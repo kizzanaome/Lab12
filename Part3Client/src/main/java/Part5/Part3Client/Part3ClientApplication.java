@@ -23,11 +23,11 @@ public class Part3ClientApplication implements CommandLineRunner {
 		System.out.println("\n=== Login as normal user ===");
 		jwtService.signIn(baseUrl, "user", "1234");
 		jwtService.callProtectedEndpoint(baseUrl + "/api/all");
-		jwtService.callProtectedEndpoint(baseUrl + "/api/users"); // should fail for normal user
+		jwtService.callProtectedEndpoint(baseUrl + "/api/users");
 
 		System.out.println("\n=== Login as admin ===");
 		jwtService.signIn(baseUrl, "admin", "1234");
-		jwtService.callProtectedEndpoint(baseUrl + "/api/users"); // should succeed for admin
+		jwtService.callProtectedEndpoint(baseUrl + "/api/admin");
 	}
 }
 

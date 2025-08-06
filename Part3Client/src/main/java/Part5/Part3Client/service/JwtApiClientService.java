@@ -24,7 +24,7 @@ public class JwtApiClientService {
 
         private String token;
 
-        // 1️⃣ Sign in and get JWT token
+        //  Sign in and get JWT token
         public void signIn(String baseUrl, String username, String password) {
             String loginUrl = baseUrl + "/auth/signin";
 
@@ -43,7 +43,7 @@ public class JwtApiClientService {
             }
         }
 
-        // 2️⃣ Call a protected endpoint with JWT
+        //  Call a protected endpoint with JWT
         public void callProtectedEndpoint(String url) {
             if (token == null) {
                 System.out.println(" No token available. Please login first.");
