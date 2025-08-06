@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Part1/pom.xml" />
+        <option value="$USER_HOME$/Downloads/Lesson+12+demo+code/WebSecurityProject2/pom.xml" />
+        <option value="$USER_HOME$/Downloads/Lesson+12+demo+code 2/WebSecurityProject2/pom.xml" />
+        <option value="$USER_HOME$/Downloads/Lesson+12+demo+code 2/springjwtdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/WebSecurityProject2/pom.xml" />
+        <option value="$USER_HOME$/Downloads/Part1Client/pom.xml" />
+        <option value="$PROJECT_DIR$/springjwtdemo/pom.xml" />
+        <option value="$USER_HOME$/Downloads/Part3Client/pom.xml" />
+        <option value="$PROJECT_DIR$/Part1Client/pom.xml" />
+        <option value="$PROJECT_DIR$/Part3Client/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="openjdk-24" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

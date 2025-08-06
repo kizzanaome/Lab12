@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Part1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Part1Client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Part3Client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebSecurityProject2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springjwtdemo/src/main/java" charset="UTF-8" />
+  </component>
+</project>
